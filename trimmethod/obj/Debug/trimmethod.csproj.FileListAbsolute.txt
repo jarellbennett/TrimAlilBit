@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\trimmethod\trimmethod\bin\Debug\trimmethod.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\trimmethod\trimmethod\bin\Debug\trimmethod.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\trimmethod\trimmethod\bin\Debug\trimmethod.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\trimmethod\trimmethod\obj\Debug\trimmethod.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\trimmethod\trimmethod\obj\Debug\trimmethod.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\trimmethod\trimmethod\obj\Debug\trimmethod.pdb
